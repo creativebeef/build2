@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://url-to-easyappointments-directory';
+    const BASE_URL      = 'http://app-bradtke.qdbk5offhg-ewx3lvg0q6zq.p.runcloud.link';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -39,9 +39,9 @@ class Config {
     // ------------------------------------------------------------------------
 
     const DB_HOST       = 'localhost';
-    const DB_NAME       = 'easyappointments';
-    const DB_USERNAME   = 'root';
-    const DB_PASSWORD   = 'root';
+    const DB_NAME       = 'calcaldb';
+    const DB_USERNAME   = 'calcalun';
+    const DB_PASSWORD   = '.%*{=+*^}{+^,:..=_++{.:+-~#~+*@+';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
