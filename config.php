@@ -48,10 +48,10 @@ class Config {
     // ------------------------------------------------------------------------
 
     const GOOGLE_SYNC_FEATURE   = FALSE; // Enter TRUE or FALSE
-    const GOOGLE_PRODUCT_NAME   = '';
-    const GOOGLE_CLIENT_ID      = '';
-    const GOOGLE_CLIENT_SECRET  = '';
-    const GOOGLE_API_KEY        = '';
+    const GOOGLE_PRODUCT_NAME   = 'plexiform-ion-309914 ';
+    const GOOGLE_CLIENT_ID      = '977283241226-o2moi8mhsuluurf9l43ddpt3nrl8juih.apps.googleusercontent.com';
+    const GOOGLE_CLIENT_SECRET  = 'rbwOkvXC6bQy97ToqkwojOKm';
+    const GOOGLE_API_KEY        = 'AIzaSyB1ncT0wVmCMBX9ZxKhAiIo9Y1Ny7qe0Pw';
 }
 
 /* End of file config.php */
