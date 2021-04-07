@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://app-bradtke.qdbk5offhg-ewx3lvg0q6zq.p.runcloud.link';
+    const BASE_URL      = 'http://book.rrcic.co.uk';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
