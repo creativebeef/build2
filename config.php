@@ -41,7 +41,7 @@ class Config {
     const DB_HOST       = 'localhost';
     const DB_NAME       = 'calcaldb';
     const DB_USERNAME   = 'calcalun';
-    const DB_PASSWORD   = '.%*{=+*^}{+^,:..=_++{.:+-~#~+*@+';
+    const DB_PASSWORD   = 'bXQpe%MqTpi^tiq_cVar=G8^%6erGbjY';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
